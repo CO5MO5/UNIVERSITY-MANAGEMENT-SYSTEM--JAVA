@@ -61,7 +61,7 @@ public class program extends University{
 		  System.out.println("Wrong Input.please Try Again");		
         }
 
-        char r;
+        
 		do{
 
             System.out.println("***********************************UNIVERSITY MANAGEMENT SYSTEM**********************************************");
